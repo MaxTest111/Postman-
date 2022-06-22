@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "9c9c6476-d4e5-4a16-8f3b-4d81ceb522da",
+		"name": "Test Api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21096926"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
